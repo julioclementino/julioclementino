@@ -61,8 +61,8 @@ Technologies I use and learn in my projects.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=julioclementino&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioclementino&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=julioclementino&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub Stats" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=julioclementino&amp;layout=compact&amp;theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 ---
