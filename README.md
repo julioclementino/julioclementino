@@ -18,7 +18,7 @@ I’m currently learning more about **web development, databases, and cybersecur
     <img src="https://img.shields.io/badge/GitHub-julioclementino-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/julioclementino_">
-    <img src="https://img.shields.io/badge/Instagram-@julioblacerda-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@julioclementino_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
